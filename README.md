@@ -13,3 +13,11 @@ npm install -g @google/gemini-cli
 gemini
 ```
 ---
+
+#### Both commands install the latest stable release.
+
+```bash
+npm install -g @google/gemini-cli
+npm install -g @google/gemini-cli@latest
+```
+---
